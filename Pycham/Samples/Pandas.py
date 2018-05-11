@@ -58,3 +58,4 @@ data = {'Year' : {2011 : 1000 ,2012 : 2000},
 data['other'] = 10
 frame = pd.DataFrame(data)
 print(frame.describe())
+
